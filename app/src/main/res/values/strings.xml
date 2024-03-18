@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">NotePadv2</string>
+    <string name="btn_add">Add a new note</string>
+</resources>
